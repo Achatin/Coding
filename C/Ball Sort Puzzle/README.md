@@ -4,8 +4,14 @@
 
 Match all characters and symbols in collumns to win!
 
-__ballsortpuzzle.c__ - C file, contains source code
-__ballsortpuzzle.h__ - header file for all the functions
-__main.c__ - execution of functions in main()
+**ballsortpuzzle.c** - C file, contains source code
 
-**How to use**
+**ballsortpuzzle.h** - header file for all the functions
+
+**main.c** - execution of functions in main()
+
+# How to use
+
+Use *Makefile* to compile.
+
+Start with: *./ballsortpuzzle*
