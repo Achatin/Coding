@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="milionar.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="project1"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="3"/>
+        <CursorPos X="73" Y="18"/>
+        <UsageCount Value="27"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="9" HistoryIndex="8">
+      <Position1>
+        <Filename Value="milionar.lpr"/>
+        <Caret Line="20" Column="3"/>
+      </Position1>
+      <Position2>
+        <Filename Value="milionar.lpr"/>
+        <Caret Line="12" Column="7"/>
+      </Position2>
+      <Position3>
+        <Filename Value="milionar.lpr"/>
+        <Caret Line="27" Column="9" TopLine="12"/>
+      </Position3>
+      <Position4>
+        <Filename Value="milionar.lpr"/>
+        <Caret Line="33" Column="10" TopLine="12"/>
+      </Position4>
+      <Position5>
+        <Filename Value="milionar.lpr"/>
+        <Caret Line="32" Column="32" TopLine="15"/>
+      </Position5>
+      <Position6>
+        <Filename Value="milionar.lpr"/>
+        <Caret Line="37" Column="13" TopLine="15"/>
+      </Position6>
+      <Position7>
+        <Filename Value="milionar.lpr"/>
+        <Caret Line="19" Column="6"/>
+      </Position7>
+      <Position8>
+        <Filename Value="milionar.lpr"/>
+        <Caret Line="20" Column="186" TopLine="6"/>
+      </Position8>
+      <Position9>
+        <Filename Value="milionar.lpr"/>
+        <Caret Line="53" Column="10" TopLine="35"/>
+      </Position9>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,60 @@
+1. Otázka:
+Èo znamená skratka CD?
+A) compact disk   B) compact device
+C) cluster disk   D) cluster device
+2. Otázka:
+Ktorı typ súboru je obrázok?
+A) exe        B) rar
+C) jpg        D) html
+3. Otázka:
+Ako sa nazıva technické vybavenie poèítaèa?
+A) Software   B) Hardware
+C) Malware    D) Warewolf
+4. Otázka:
+Ko¾ko bitov má jeden bajt?
+A) 2 bity    B) 4 bity
+C) 8 bitov   D) 10 bitov
+5. Otázka:
+Ktorá kódovacia tabu¾ka kóduje znaky 7 bitmi?
+A) ASCII     B) Windows 1250
+C) UNICODE   D) UTF-8
+6. Otázka:
+Aké je k¾úèové slovo pre cyklus s pevnım poètom opakovaní?
+A) while      B) repeat
+C) for        D) maco
+7. Otázka:
+Akej farbe zodpovedá HEX kód #FF0000 ?
+A) èiernej   B) èervenej
+C) modrej    D) hnedej
+8. Otázka:
+Ako sa nazıva zariadenie na snímanie grafickej informácie z predlohy?
+A) kopírka   B) kamera
+C) skener    D) tlaèiareò
+9. Otázka:
+Ktorı typ zvukového súboru je bez kompresie?
+A) mp3        B) ogg
+C) aup        D) wav
+10. Otázka:
+Operaènı systém sa tie nazıva...
+A) srdce poèítaèa   B) duša poèítaèa
+C) telo poèítaèa    D) kostra poèítaèa
+11. Otázka:
+Ako zapíšeme nerovnos v jazyku Javascript?
+A) x <> 0   B) x := 0
+C) x != 0   D) x =/= 0
+12. Otázka:
+Ako sa volal prvı poèítaè na svete?
+A) IBM PC     B) DOS
+C) ENIAC      D) MAC
+13. Otázka:
+Èo je to CACHE?
+A) kryptomena   B) taktovacia frekvencia
+C) zbernica     D) vyrovnávacia pamä
+14. Otázka:
+Kto vynašiel WWW (World Wide Web)?
+A) Bob Taylor   B) Bill Gates
+C) Steve Jobs   D) Tim Lee
+15. Otázka:
+Ako sa nazıva pripojenie na internet pomocou komutovanej telefónnej linky?
+A) dial-up   B) DSL (Digital Subscriber Line)
+C) dial-in   D) ISDN (Integrated Services Digital Network)
