@@ -1,0 +1,14 @@
+com/kolnickarn/MainApplication.java
+ com.kolnickarn.MainApplication
+ com.kolnickarn.MainApplication$1
+com/kolnickarn/ReactNativeFlipper.java
+ com.kolnickarn.ReactNativeFlipper
+ com.kolnickarn.ReactNativeFlipper$1
+ com.kolnickarn.ReactNativeFlipper$2
+ com.kolnickarn.ReactNativeFlipper$2$1
+com/kolnickarn/BuildConfig.java
+ com.kolnickarn.BuildConfig
+com/kolnickarn/MainActivity.java
+ com.kolnickarn.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
