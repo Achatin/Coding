@@ -4,8 +4,8 @@
 
 Match all characters and symbols in collumns to win!
 
-_ballsortpuzzle.c_ - C file, contains source code
-_ballsortpuzzle.h_ - header file for all the functions
-_main.c_ - execution of functions in main()
+__ballsortpuzzle.c__ - C file, contains source code
+__ballsortpuzzle.h__ - header file for all the functions
+__main.c__ - execution of functions in main()
 
 **How to use**
