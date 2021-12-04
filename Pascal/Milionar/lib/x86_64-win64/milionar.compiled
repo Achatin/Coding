@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CONFIG>
-  <Compiler Value="C:\lazarus\fpc\3.2.0\bin\x86_64-win64\fpc.exe" Date="1357348719"/>
-  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiC:\Users\simon\Desktop\Last resort - no losers allowed\Informatika\PROGRAMOVANIE\MILIONAR\lib\x86_64-win64&quot; &quot;-FuC:\Users\simon\Desktop\Last resort - no losers allowed\Informatika\PROGRAMOVANIE\MILIONAR\&quot; &quot;-FUC:\Users\simon\Desktop\Last resort - no losers allowed\Informatika\PROGRAMOVANIE\MILIONAR\lib\x86_64-win64\&quot; &quot;-FEC:\Users\simon\Desktop\Last resort - no losers allowed\Informatika\PROGRAMOVANIE\MILIONAR\&quot; &quot;-oC:\Users\simon\Desktop\Last resort - no losers allowed\Informatika\PROGRAMOVANIE\MILIONAR\milionar.exe&quot; milionar.lpr"/>
+  <Compiler Value="C:\lazarus\fpc\3.2.0\bin\x86_64-win64\fpc.exe" Date="1381338938"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -FiC:\Users\simon\Desktop\Portfolio\Coding\Pascal\Milionar\lib\x86_64-win64 -FuC:\Users\simon\Desktop\Portfolio\Coding\Pascal\Milionar\ -FUC:\Users\simon\Desktop\Portfolio\Coding\Pascal\Milionar\lib\x86_64-win64\ -FEC:\Users\simon\Desktop\Portfolio\Coding\Pascal\Milionar\ -oC:\Users\simon\Desktop\Portfolio\Coding\Pascal\Milionar\milionar.exe milionar.lpr"/>
+  <Complete Value="False"/>
 </CONFIG>
