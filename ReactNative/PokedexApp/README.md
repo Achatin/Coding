@@ -3,8 +3,8 @@
 A simple Pokémon Database App made with *React Native* ⚛.
 
 <p float="left">
-  <img src="pokedex1.png" width="100" />
-  <img src="pokedex2.png" width="100" /> 
+  <img src="pokedex1.png" width="300" />
+  <img src="pokedex2.png" width="300" /> 
 </p>
 
 # How to use
