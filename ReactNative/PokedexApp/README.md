@@ -13,4 +13,4 @@ Install all libraries in the folder: ``npm install``
 
 Start *Metro*: ``npm run start``
 
-Start App on *Android*: ``npm run android`` or IOS: ``npm run ios``
+Start App on *Android*: ``npm run android`` or iOS: ``npm run ios``
