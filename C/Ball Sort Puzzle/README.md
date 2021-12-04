@@ -1,6 +1,6 @@
 # Ball Sort Puzzle
 
-![alt text](http://url/to/img.png)
+![Screenshot](ballsortpuzzle.png)
 
 Match all characters and symbols in collumns to win!
 
@@ -10,8 +10,10 @@ Match all characters and symbols in collumns to win!
 
 **main.c** - execution of functions in main()
 
+**Makefile** - used to compile program
+
 # How to use
 
-Use *Makefile* to compile.
+Use *Makefile* to compile: ``make all``
 
-Start with: *./ballsortpuzzle*
+Start with: ``./ballsortpuzzle``
