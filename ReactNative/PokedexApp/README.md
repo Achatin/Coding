@@ -2,8 +2,7 @@
 
 A simple Pokémon Database App made with *React Native* ⚛.
 
-![Screenshot](pokedex1.png)
-![Screenshot](pokedex2.png)
+![Screenshot](pokedex1.png) ![Screenshot](pokedex2.png)
 
 # How to use
 
