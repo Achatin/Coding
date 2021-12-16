@@ -1,7 +1,8 @@
 # Minecraft Generation Simulation 💻
 
 This program simulates a simple Minecraft underground generation.
-\nRandomly generates layers of dirt and diamonds 💎
+
+Randomly generates layers of dirt and diamonds 💎
 
 ![Screenshot](mc.png)
 
