@@ -1,6 +1,7 @@
 # Minecraft Generation Simulation 💻
 
-This game was written with GO.
+This program simulates a simple Minecraft underground generation.
+Randomly generates layers of dirt and diamonds 💎
 
 ![Screenshot](mc.png)
 
