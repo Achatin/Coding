@@ -1,4 +1,4 @@
-# Ball Sort Puzzle
+# Ball Sort Puzzle 🎮
 
 ![Screenshot](ballsortpuzzle.png)
 
