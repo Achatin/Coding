@@ -9,3 +9,5 @@ This program serves for learning:
 · terminal output
 
 ![Screenshot](preview.png)
+
+Start with: ``go run main.go``
